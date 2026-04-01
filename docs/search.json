@@ -33,44 +33,58 @@
   {
     "objectID": "resume.html",
     "href": "resume.html",
-    "title": "Isaac Newtons’s CV",
+    "title": "Adam Hobbs Resume",
     "section": "",
-    "text": "Physicist, Mathematician, Cambridge professor.\n\nisaac@applesdofall.org | My wikipedia page\n\n\n\nStanding on the shoulders of giants\n\n\nLaws of motion, gravitation, minting coins, disliking Robert Hooke\n\n\n\nCooling, power series, optics, alchemy, planetary motions, apples.\n\n\n\n\n1654-1660 The King’s School, Grantham.\nJune 1661 - now Trinity College, Cambridge\n\nSizar\n\n1667 - death Trinity College, Cambridge\n\nFellow\n\n\n\n\n2012 President, Royal Society, London, UK\nAssociate, French Academy of Science, Paris, France\n\n\n\n\n\n\n1669 Newton Sir I, De analysi per æquationes numero terminorum infinitas.\n1669 Lectiones opticæ.\netc. etc. etc.\n\n\n\n2012 Infinitesimal calculus for solutions to physics problems, SMBC patent 001\n\n\n\n\n1600 Royal Mint, London\n\nWarden\nMinted coins\n\n1600 Lucasian professor of Mathematics, Cambridge University"
-  },
-  {
-    "objectID": "resume.html#currently",
-    "href": "resume.html#currently",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "Standing on the shoulders of giants\n\n\nLaws of motion, gravitation, minting coins, disliking Robert Hooke\n\n\n\nCooling, power series, optics, alchemy, planetary motions, apples."
+    "text": "Data Science Student\nBYU-Idaho\nLinkedIn | GitHub Portfolio\n\n\nBrigham Young University–Idaho\nBachelor’s Degree in Data Science\nExpected Graduation: [Add Graduation Date]\nRelevant coursework:\n\nData Science\nSQL and Databases\nCalculus\nStatistics\nMachine Learning\nPhysics with Calculus\n\n\n\n\nProgramming Languages - Python - SQL - HTML/CSS\nTools and Technologies - Git - GitHub - VS Code - Quarto - MySQL - pandas - scikit-learn\nData Skills - data cleaning - exploratory data analysis - data visualization - storytelling with data - predictive modeling\n\n\n\n\n\nBuilt and published a personal portfolio website using Quarto and GitHub Pages to showcase data science projects, technical skills, and professional growth.\n\n\n\nDeveloped beginner machine learning models using Python and scikit-learn, including classification workflows, model evaluation, and feature analysis.\n\n\n\nCreated and queried relational databases using SQL, including filtering, grouping, joins, subqueries, and window functions.\n\n\n\nWorked with raw datasets to clean, transform, analyze, and visualize data in ways that support better understanding and communication.\n\n\n\n\n\n\nBYU-Idaho\n[Add Dates]\n\nHelp students understand mathematical concepts clearly and step by step\nSupport problem solving in a patient and encouraging way\nStrengthen communication and teaching skills through one-on-one help\n\n\n\n\n\n\n\nCo-created educational content and project ideas focused on learning, creativity, and making technical topics more engaging.\n\n\n\n\n\nanalytical thinking\nproblem solving\ncommunication\nwillingness to learn\ncreativity\npersistence\n\n\n\n\nEmail: [Add your email]\nLinkedIn: https://www.linkedin.com/in/adam-hobbs-09b8b420b/\nGitHub: https://github.com/hob24003-beep/DSPortfolio"
   },
   {
     "objectID": "resume.html#education",
     "href": "resume.html#education",
-    "title": "Isaac Newtons’s CV",
+    "title": "Adam Hobbs Resume",
     "section": "",
-    "text": "1654-1660 The King’s School, Grantham.\nJune 1661 - now Trinity College, Cambridge\n\nSizar\n\n1667 - death Trinity College, Cambridge\n\nFellow"
+    "text": "Brigham Young University–Idaho\nBachelor’s Degree in Data Science\nExpected Graduation: [Add Graduation Date]\nRelevant coursework:\n\nData Science\nSQL and Databases\nCalculus\nStatistics\nMachine Learning\nPhysics with Calculus"
   },
   {
-    "objectID": "resume.html#awards",
-    "href": "resume.html#awards",
-    "title": "Isaac Newtons’s CV",
+    "objectID": "resume.html#technical-skills",
+    "href": "resume.html#technical-skills",
+    "title": "Adam Hobbs Resume",
     "section": "",
-    "text": "2012 President, Royal Society, London, UK\nAssociate, French Academy of Science, Paris, France"
+    "text": "Programming Languages - Python - SQL - HTML/CSS\nTools and Technologies - Git - GitHub - VS Code - Quarto - MySQL - pandas - scikit-learn\nData Skills - data cleaning - exploratory data analysis - data visualization - storytelling with data - predictive modeling"
   },
   {
-    "objectID": "resume.html#publications",
-    "href": "resume.html#publications",
-    "title": "Isaac Newtons’s CV",
+    "objectID": "resume.html#projects",
+    "href": "resume.html#projects",
+    "title": "Adam Hobbs Resume",
     "section": "",
-    "text": "1669 Newton Sir I, De analysi per æquationes numero terminorum infinitas.\n1669 Lectiones opticæ.\netc. etc. etc.\n\n\n\n2012 Infinitesimal calculus for solutions to physics problems, SMBC patent 001"
+    "text": "Built and published a personal portfolio website using Quarto and GitHub Pages to showcase data science projects, technical skills, and professional growth.\n\n\n\nDeveloped beginner machine learning models using Python and scikit-learn, including classification workflows, model evaluation, and feature analysis.\n\n\n\nCreated and queried relational databases using SQL, including filtering, grouping, joins, subqueries, and window functions.\n\n\n\nWorked with raw datasets to clean, transform, analyze, and visualize data in ways that support better understanding and communication."
   },
   {
-    "objectID": "resume.html#occupation",
-    "href": "resume.html#occupation",
-    "title": "Isaac Newtons’s CV",
+    "objectID": "resume.html#experience",
+    "href": "resume.html#experience",
+    "title": "Adam Hobbs Resume",
     "section": "",
-    "text": "1600 Royal Mint, London\n\nWarden\nMinted coins\n\n1600 Lucasian professor of Mathematics, Cambridge University"
+    "text": "BYU-Idaho\n[Add Dates]\n\nHelp students understand mathematical concepts clearly and step by step\nSupport problem solving in a patient and encouraging way\nStrengthen communication and teaching skills through one-on-one help"
+  },
+  {
+    "objectID": "resume.html#leadership-and-involvement",
+    "href": "resume.html#leadership-and-involvement",
+    "title": "Adam Hobbs Resume",
+    "section": "",
+    "text": "Co-created educational content and project ideas focused on learning, creativity, and making technical topics more engaging."
+  },
+  {
+    "objectID": "resume.html#strengths",
+    "href": "resume.html#strengths",
+    "title": "Adam Hobbs Resume",
+    "section": "",
+    "text": "analytical thinking\nproblem solving\ncommunication\nwillingness to learn\ncreativity\npersistence"
+  },
+  {
+    "objectID": "resume.html#contact",
+    "href": "resume.html#contact",
+    "title": "Adam Hobbs Resume",
+    "section": "",
+    "text": "Email: [Add your email]\nLinkedIn: https://www.linkedin.com/in/adam-hobbs-09b8b420b/\nGitHub: https://github.com/hob24003-beep/DSPortfolio"
   },
   {
     "objectID": "Machine_Learning/project3.html",
@@ -300,16 +314,37 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "about me",
+    "title": "Adam Hobbs",
     "section": "",
-    "text": "MarkDown Basics"
+    "text": "Hi, I’m Adam Hobbs, a Data Science student at BYU-Idaho with interests in data analysis, machine learning, storytelling with data, and full-stack development.\nThis portfolio highlights my growth across the data science workflow, including:\n\ndata cleansing\ndata exploration\nstory telling with data\nmachine learning\nfull-stack projects\ncompetitions and applied work\n\nI enjoy building projects that combine technical skills with creativity, communication, and real-world problem solving."
   },
   {
-    "objectID": "index.html#title-2-header",
-    "href": "index.html#title-2-header",
-    "title": "about me",
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Adam Hobbs",
     "section": "",
-    "text": "MarkDown Basics"
+    "text": "Hi, I’m Adam Hobbs, a Data Science student at BYU-Idaho with interests in data analysis, machine learning, storytelling with data, and full-stack development.\nThis portfolio highlights my growth across the data science workflow, including:\n\ndata cleansing\ndata exploration\nstory telling with data\nmachine learning\nfull-stack projects\ncompetitions and applied work\n\nI enjoy building projects that combine technical skills with creativity, communication, and real-world problem solving."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Adam Hobbs",
+    "section": "About Me",
+    "text": "About Me\nI am currently studying Data Science at BYU-Idaho and developing skills in:\n\nPython\nSQL\nmachine learning\ndata visualization\nweb development\nGit and GitHub\n\nI am especially interested in building meaningful projects that help people learn, solve problems, and make better decisions with data."
+  },
+  {
+    "objectID": "index.html#featured-goals",
+    "href": "index.html#featured-goals",
+    "title": "Adam Hobbs",
+    "section": "Featured Goals",
+    "text": "Featured Goals\nThrough this portfolio, I want to:\n\nshowcase my technical skills\ndemonstrate my growth over time\nshare projects I am proud of\ncreate a professional online presence for future opportunities"
+  },
+  {
+    "objectID": "index.html#connect-with-me",
+    "href": "index.html#connect-with-me",
+    "title": "Adam Hobbs",
+    "section": "Connect With Me",
+    "text": "Connect With Me\n\nGitHub\nLinkedIn"
   },
   {
     "objectID": "Machine_Learning/project2.html",

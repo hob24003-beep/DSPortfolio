@@ -1,10 +1,47 @@
 ---
-title: "about me"
-subtitle: "my data science portfolio"
-# use quarto markdown to 
+title: "Adam Hobbs"
+subtitle: "Data Science Portfolio"
 ---
 
-# Title 1 Header
-## Title 2 Header
+## Welcome
 
-[MarkDown Basics](https://quarto.org/docs/authoring/markdown-basics.html#links-images)
+Hi, I’m Adam Hobbs, a Data Science student at BYU-Idaho with interests in data analysis, machine learning, storytelling with data, and full-stack development.
+
+This portfolio highlights my growth across the data science workflow, including:
+
+- data cleansing
+- data exploration
+- story telling with data
+- machine learning
+- full-stack projects
+- competitions and applied work
+
+I enjoy building projects that combine technical skills with creativity, communication, and real-world problem solving.
+
+## About Me
+
+I am currently studying Data Science at BYU-Idaho and developing skills in:
+
+- Python
+- SQL
+- machine learning
+- data visualization
+- web development
+- Git and GitHub
+
+I am especially interested in building meaningful projects that help people learn, solve problems, and make better decisions with data.
+
+## Featured Goals
+
+Through this portfolio, I want to:
+
+- showcase my technical skills
+- demonstrate my growth over time
+- share projects I am proud of
+- create a professional online presence for future opportunities
+
+## Connect With Me
+
+- [GitHub](https://github.com/hob24003-beep/DSPortfolio)
+- [LinkedIn](https://www.linkedin.com/in/adam-hobbs-09b8b420b/)
+

@@ -1,89 +1,92 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: "Adam Hobbs Resume"
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+# Adam Hobbs
 
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+**Data Science Student**  
+BYU-Idaho  
+[LinkedIn](https://www.linkedin.com/in/adam-hobbs-09b8b420b/) | [GitHub Portfolio](https://github.com/hob24003-beep/DSPortfolio)
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+**Brigham Young University–Idaho**  
+Bachelor’s Degree in Data Science  
+Expected Graduation: [Add Graduation Date]
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+Relevant coursework:
 
-- Sizar
+- Data Science
+- SQL and Databases
+- Calculus
+- Statistics
+- Machine Learning
+- Physics with Calculus
 
-`1667 - death`
-__Trinity College, Cambridge__
+## Technical Skills
 
-- Fellow
+**Programming Languages**
+- Python
+- SQL
+- HTML/CSS
 
+**Tools and Technologies**
+- Git
+- GitHub
+- VS Code
+- Quarto
+- MySQL
+- pandas
+- scikit-learn
 
+**Data Skills**
+- data cleaning
+- exploratory data analysis
+- data visualization
+- storytelling with data
+- predictive modeling
 
-## Awards
+## Projects
 
-`2012`
-President, *Royal Society*, London, UK
+### Data Science Portfolio Website
+Built and published a personal portfolio website using Quarto and GitHub Pages to showcase data science projects, technical skills, and professional growth.
 
-Associate, *French Academy of Science*, Paris, France
+### Machine Learning Projects
+Developed beginner machine learning models using Python and scikit-learn, including classification workflows, model evaluation, and feature analysis.
 
+### SQL and Database Work
+Created and queried relational databases using SQL, including filtering, grouping, joins, subqueries, and window functions.
 
+### Data Cleaning and Exploration
+Worked with raw datasets to clean, transform, analyze, and visualize data in ways that support better understanding and communication.
 
-## Publications
+## Experience
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+### Math Tutor
+BYU-Idaho  
+[Add Dates]
 
-### Journals
+- Help students understand mathematical concepts clearly and step by step
+- Support problem solving in a patient and encouraging way
+- Strengthen communication and teaching skills through one-on-one help
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+## Leadership and Involvement
 
-`1669`
-Lectiones opticæ.
+### Project Edify
+Co-created educational content and project ideas focused on learning, creativity, and making technical topics more engaging.
 
-etc. etc. etc.
+## Strengths
 
-### Patents
+- analytical thinking
+- problem solving
+- communication
+- willingness to learn
+- creativity
+- persistence
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+## Contact
 
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+**Email:** [Add your email]  
+**LinkedIn:** [https://www.linkedin.com/in/adam-hobbs-09b8b420b/](https://www.linkedin.com/in/adam-hobbs-09b8b420b/)  
+**GitHub:** [https://github.com/hob24003-beep/DSPortfolio](https://github.com/hob24003-beep/DSPortfolio)
